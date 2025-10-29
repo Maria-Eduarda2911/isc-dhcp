@@ -1,7 +1,3 @@
-#### Para uma melhor visualização do texto e com imagens, segue o link da documentação: 
-https://docs.google.com/document/d/1IA4QmAJ-vFLjqa4xVGXrFKDXFfgFUiIGXF4mll5L2Y4/edit
-
-
 ## Instalação do ISC DHCP: 
 
 sudo apt install isc-dhcp-server
