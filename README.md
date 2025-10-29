@@ -30,7 +30,6 @@ cat /var/log/syslog | grep "DHCPACK"
 Como o ISC-DHCP foi instalado por fora, ele já aparece na aba servers, caso o usuário não tivesse feito a instalação de forma independente, pelo próprio WEBMIN na aba de “Un-used Modules” pode baixar o serviço DHCP e várias outras aplicações como o SAMBA e o LDAP.
 
 
-#### Tutorial de adição de Hosts é explicado no link
 
 
 
