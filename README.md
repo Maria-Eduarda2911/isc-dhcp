@@ -13,6 +13,8 @@ Markdown
   <b>Guia definitivo e passo a passo para instalação, configuração de escopos, segurança de rede e gerenciamento web de servidores DHCP utilizando ISC-DHCP e Webmin.</b>
 </p>
 
+<img width="623" height="439" alt="image" src="https://github.com/user-attachments/assets/16fcfbc2-7dcf-434b-a663-016bdef7078b" />
+
 ---
 
 ## 📌 Portas de Rede Utilizadas
